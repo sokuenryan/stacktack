@@ -29,3 +29,9 @@ dist-ssr
 
 # Rollup
 *.rpt2_cache/
+
+#secure
+.env
+firebase/
+/firebase
+/firebase/

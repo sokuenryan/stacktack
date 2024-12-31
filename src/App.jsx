@@ -10,11 +10,12 @@ import Investments from "./pages/Investments";
 import Credit from "./pages/Credit";
 import Error from "./pages/Error";
 import Nav from "./components/Nav"; 
+import Register from './pages/Register.jsx';
 
 // Auth
 import { AuthProvider } from './auth/authContext';
 import PrivateRoute from './auth/privateRoute';
-import Register from './pages/Register.jsx';
+
 
 const router = createBrowserRouter([
   {

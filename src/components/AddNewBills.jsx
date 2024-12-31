@@ -9,6 +9,7 @@ const AddNewBills = () => {
     const savedBills = localStorage.getItem('billsList');
     return savedBills ? JSON.parse(savedBills) : [];
   });
+  
   const [editIndex, setEditIndex] = useState(null);
   const [editBillName, setEditBillName] = useState('');
   const [editBillAmount, setEditBillAmount] = useState('');
