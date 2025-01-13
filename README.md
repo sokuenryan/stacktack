@@ -15,7 +15,7 @@ This app not only has helped me stay on time with credit due dates increasing my
 **For a full live view look at this app - check out StackTack at:** <br>
 **LIVE VIEW**: [link to Netlify!] (http://stacktack.netlify.app) <br>
 **Access Credentials:** <br>
-`*Username: user@user.com*` <br>
+`*Username: guest@guest.com*` <br>
 `*Password: 123Password*` <br>
 
 ## Features
