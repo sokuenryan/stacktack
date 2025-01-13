@@ -12,10 +12,10 @@ When moving my financial apps to one area of my phone for ease of access I reali
 This app not only has helped me stay on time with credit due dates increasing my credit, but also has become a synergetic tool when budgeting and calculating my finances for the week allowing me to easily see where I need to cut or contribute spending. 
 
 **For a full live view look at this app - check out StackTack at:** <br>
-**LIVE VIEW**: [link to Netlify!] (http://stacktack.netlify.app)
-**Access Credentials:**
-*Username: user@user.com*
-*Password: 123Password*
+**LIVE VIEW**: [link to Netlify!] (http://stacktack.netlify.app) <br>
+**Access Credentials:** <br>
+`*Username: user@user.com*` <br>
+`*Password: 123Password*` <br>
 
 ## Features
 **Bill Tracking**
